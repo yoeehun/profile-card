@@ -1,0 +1,35 @@
+.profile-card {
+  width: 300px;
+  margin: 50px auto;
+  padding: 20px;
+  text-align: center;
+  border-radius: 10px;
+  background-color: #ACC7B4;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.profile-image {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-bottom: 15px;
+}
+
+.title {
+  color: gray;
+}
+
+.social-links {
+  margin-top: 15px;
+}
+
+.social-links a {
+  margin-right: 10px;
+  text-decoration: none;
+  color: #0077b5; 
+}
+
+.social-links a.github-link {
+  color: #333; 
+}
